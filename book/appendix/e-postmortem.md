@@ -7,7 +7,7 @@ layout: default
 
 # Appendix E — Postmortem: The Template That Outlives the Machines
 
-Use this with [Chapter 12](part3/ch12/) (culture) and [Chapter 28](part4/ch28/) (the AI-era postmortem with receipts + verification-tax accounting). The macros are the original's; the `[AI]` rows are this edition's addition — what the scribe can draft *draft* and the human must *own*.
+Use this with [Chapter 12[part3/ch12.html] (culture) and [Chapter 28[part4/ch28.html] (the AI-era postmortem with receipts + verification-tax accounting). The macros are the original's; the `[AI]` rows are this edition's addition — what the scribe can draft *draft* and the human must *own*.
 
 ## The template (fill it so someone who was not there can see it)
 

@@ -18,7 +18,7 @@ layout: default
 | 99.999% | 5.26 minutes | 1.3 minutes |
 | 99.9999% | 31.6 seconds | ~8 seconds |
 
-**Read it as:** the last few nines cost orders of magnitude more effort for *minutes* — so pair the table with [Chapter 4](part2/ch04/)'s "which nines do we actually need?" question before you fall in love with a big number.
+**Read it as:** the last few nines cost orders of magnitude more effort for *minutes* — so pair the table with [Chapter 4[part2/ch04.html]'s "which nines do we actually need?" question before you fall in love with a big number.
 
 ## The error-budget math (one line)
 
@@ -33,12 +33,12 @@ golden window  = budget / expected burn             → pages you before the qua
 | Rung | What the machine may do | Evidence required |
 |---|---|---|
 | 1 · Observe | Read, watch, summarize | scoped read access, receipts |
-| 2 · Suggest | Draft hypothesis + runbook / "[Chapter 29](part4/ch29/)" | human confirms, no actions |
-| 3 · Act with approval | Execute *proposed* steps, human-clicked | approval gate + ledger [Ch 8](part2/ch08/), [24](part4/ch24/) |
-| 4 · Act within guardrails | Autonomous within a **[playbook](appendix/playbook/)** + **[leash](part4/ch29/)** | safety SLI green, rehearsal-proof, replay-ready [Ch 26](part4/ch26/) |
-| 5 · Full autonomy | Nothing irreversible without a human-joint launch review | years of receipts; still no takedown power alone [Ch 27](part4/ch27/), [29](part4/ch29/) |
+| 2 · Suggest | Draft hypothesis + runbook / "[Chapter 29[part4/ch29.html]" | human confirms, no actions |
+| 3 · Act with approval | Execute *proposed* steps, human-clicked | approval gate + ledger [Ch 8[part2/ch08.html], [24[part4/ch24.html] |
+| 4 · Act within guardrails | Autonomous within a **[playbook[appendix/playbook.html]** + **[leash[part4/ch29.html]** | safety SLI green, rehearsal-proof, replay-ready [Ch 26[part4/ch26.html] |
+| 5 · Full autonomy | Nothing irreversible without a human-joint launch review | years of receipts; still no takedown power alone [Ch 27[part4/ch27.html], [29[part4/ch29.html] |
 
-**Same physics as the nines:** define *trusted autonomy budget* like error budget — and spend it like the cash it is ([Chapters 5, 7, 24](part2/ch05/)).
+**Same physics as the nines:** define *trusted autonomy budget* like error budget — and spend it like the cash it is ([Chapters 5, 7, 24[part2/ch05.html]).
 
 <div class="callout">
   <span class="tag"><i class="fa-solid fa-lightbulb"></i> Key insight</span>
