@@ -130,6 +130,15 @@ Those ideas survive beautifully. Almost everything *else* has changed.
   <p>If you read exactly two things: start with <a href="{{ site.baseurl }}/book/00-prologue.html">Chapter 0</a> to understand the transformation, then jump to <a href="{{ site.baseurl }}/book/part6/ch35.html">Chapter 35</a> to get your 90-day plan. Everything else is a deep dive you can return to.</p>
 </div>
 
+## The Starter Kit (companion collection)
+
+Prefer a single self-contained read, a deck, a blog-length summary, or actual hands-on labs? Everything below was distilled from Google's open SRE library (sre.google/resources) and is fully cloud-agnostic — no cloud required to start.
+
+- 📖 [Reliability First: An SRE Guide for People Starting Out in 2026]({{ site.baseurl }}/starter-kit/book.html) — the full companion book: the trust machine (SLI/SLO/error budgets), designing for failure, the daily loop, why heroism is bad, and the 2026 AI-autonomy ladder — plus a first-90-days plan and the free resource library.
+- 🎞️ [Slide Deck]({{ site.baseurl }}/starter-kit/slides.html) — the book in 17 slides (Marp-ready source).
+- ✍️ [Blog Post]({{ site.baseurl }}/starter-kit/blog-post.html) — the five-minute version for sharing.
+- 🧪 [Hands-On Labs]({{ site.baseurl }}/starter-kit/labs.html) — Lab 0–7: build a pet service, write an SLO by hand, canary it, break it on purpose, run a blameless drill, and write an agent safety charter.
+
 <blockquote>
   "Hope is not a strategy." — Old SRE motto (2017).<br>
   "Show me the evidence." — New SRE motto (2026).
