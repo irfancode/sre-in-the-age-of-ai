@@ -1,0 +1,24 @@
+title: SRE in the Age of AI
+tagline: What Site Reliability Engineering was, what it becomes in 2026, and how a complete beginner can do it.
+description: A cloud-agnostic, beginner-friendly, AI-native rewrite of the classic Google SRE playbook for 2026. Forget the pager. Meet your AI teammate.
+author: irfancode
+email: irfancode@users.noreply.github.com
+baseurl: "/sre-in-the-age-of-ai"
+url: "https://irfancode.github.io"
+
+# GitHub Pages + Jekyll (no plugins that Pages can't run)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: "book"
+    values:
+      layout: default
+  - scope:
+      path: ""
+    values:
+      layout: default
